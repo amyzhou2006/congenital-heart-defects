@@ -3,7 +3,7 @@
 Welcome to Lumache's documentation!
 ===================================
 
-.. image:: https://zh.wikipedia.org/zh-cn/File:Sphinx_of_Giza_9059.jpg
+.. image:: https://upload.wikimedia.org/wikipedia/commons/6/63/Sphinx_of_Giza_9059.jpg
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
